@@ -1,0 +1,102 @@
+"vim generic settings
+set number
+set nocompatible
+set backspace=indent,eol,start
+set nowrap
+set filetype=ps1
+set ruler
+set tabstop=4
+set shiftwidth=4
+set smartindent
+set expandtab
+set showtabline=0
+
+"set directories
+set nobackup
+set noswapfile
+set noundofile
+"set backupdir=C:\Users\andrew.pruski\vimfiles\backup\\
+"set directory=C:\Users\andrew.pruski\vimfiles\swap\\
+"set undodir=C:\Users\andrew.pruski\vimfiles\undo\\
+
+
+"remove text from NERDTree UI
+let NERDTreeMinimalUI=1
+
+
+"fix issues with colors in windows terminal
+set termguicolors
+
+
+"set default color scheme
+colorscheme prusk
+
+
+"syntax highlighting on
+syntax on
+
+
+"highlight line cursor is on
+set cursorline
+"highlight CursorLine cterm=NONE ctermbg=0 guifg=NONE guibg=NONE gui=NONE
+
+
+"set default shell
+"set shell=powershell\ -nologo
+set shell=pwsh\ -nologo
+
+
+"shortcut to execute commands in terminal
+"nnoremap <F9> Y<C-W>j<C-W>"0<C-W>k
+"xnoremap <F9> y<C-W>j<C-W>"0<C-W>k
+"noremap <F9> Y<C-W>j<C-W>"0<C-W>k
+noremap <C-;> Y<C-W>j<C-W>"0<C-W>k
+
+
+"shortcut for scrolling in terminal (i to exit)
+tnoremap <C-b> <C-\><C-n>
+
+
+"shortcut for switching between code and terminal
+noremap <C-/> <C-w>j
+tnoremap <C-/> <C-w>k
+
+
+"shortcut mapping ctrl+right to open new editor
+noremap <C-Right> :vsplit new.ps1<CR>
+
+
+"set aliases
+cnoreabbrev powershell powershell -executionpolicy unrestricted -nologo
+cabbrev bterm below term
+cabbrev ntree NERDTree
+
+
+"open terminal and NERDTree on start up and in new tabs
+autocmd VimEnter * :below terminal
+autocmd VimEnter * :NERDTree
+"autocmd VimEnter * :wincmd l
+autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
+
+
+"reload vimrc on save
+if !exists('*ReloadVimrc')
+    fun! ReloadVimrc()
+        let save_cursor=getcurpos()
+        source $MYVIMRC
+        call setpos('.',save_cursor)
+    endfun
+endif
+
+autocmd! BufWritePost $MYVIMRC call ReloadVimrc()
+
+
+"funtion to get syntax group of a word in vim for highlighting
+function! <SID>SynStack()
+    if !exists("*synstack")
+        return
+    endif
+    echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
+endfunc
+nmap <C-S-o> :call <SID>SynStack()<CR>
+
