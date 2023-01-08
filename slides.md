@@ -3,7 +3,7 @@
 ---
 
 ## Andrew Pruski
-
+<img src="images/apruski.png" style="float: right"/>
 ### Field Solutions Architect
 ### Microsoft Data Platform MVP 
 ### Certified Kubernetes Administrator
