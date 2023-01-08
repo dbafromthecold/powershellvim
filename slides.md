@@ -4,7 +4,7 @@
 
 ## Andrew Pruski
 
-<img src="images/apruski.png" style="float: right"/>
+<img src="images/apruski.jpg" style="float: right"/>
 
 ### Field Solutions Architect
 ### Microsoft Data Platform MVP 
