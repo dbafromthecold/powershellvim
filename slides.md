@@ -30,6 +30,12 @@ To show what can be done with powershell and vim
 
 ---
 
+<p align="center">
+  <img src="images/vim-keyboard.png" />
+</p>
+
+---
+
 # Demos
 
 ---
