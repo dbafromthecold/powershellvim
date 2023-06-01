@@ -8,7 +8,6 @@
 
 ### Field Solutions Architect
 ### Microsoft Data Platform MVP 
-### Certified Kubernetes Administrator
 
 <!-- .slide: style="text-align: left;"> -->
 <i class="fab fa-twitter"></i><a href="https://twitter.com/dbafromthecold">  @dbafromthecold</a><br>
@@ -31,8 +30,16 @@ To show what can be done with powershell and vim
 ---
 
 <p align="center">
-  <img src="images/vim-keyboard.png" />
+  <img src="images/vim_keyboard_2.png" />
 </p>
+
+---
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/ssNJExTNUco" title="Single powershell commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/8pGGpJMJs4w" title="Multi-line commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
