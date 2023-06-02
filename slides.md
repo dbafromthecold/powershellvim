@@ -23,6 +23,16 @@ To show what can be done with powershell and vim
 
 ---
 
+## My VIM Setup
+<!-- .slide: style="text-align: left;"> -->
+<p align="center">
+  <img src="images/vim_setup.png" />
+</p>
+
+---
+
+## The Big Question
+<!-- .slide: style="text-align: left;"> -->
 <p align="center">
   <img src="images/ytho.png" />
 </p>
@@ -35,9 +45,19 @@ To show what can be done with powershell and vim
 
 ---
 
-<p align="center">
-  <img src="images/vim_setup.png" />
-</p>
+## Exiting VIM
+<!-- .slide: style="text-align: left;"> -->
+TBD
+
+---
+
+# Opening VIM
+<!-- .slide: style="text-align: left;"> -->
+TBD
+
+---
+
+33
 
 ---
 
