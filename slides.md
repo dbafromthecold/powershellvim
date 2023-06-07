@@ -39,6 +39,12 @@ To show what can be done with powershell and vim
 
 ---
 
+## History
+
+TBD
+
+---
+
 <p align="center">
   <img src="images/vim_keyboard_2.png" />
 </p>
@@ -51,19 +57,42 @@ TBD
 
 ---
 
-# Opening VIM
+## Opening VIM
 <!-- .slide: style="text-align: left;"> -->
 TBD
 
 ---
 
-33
+## Modes
+<!-- .slide: style="text-align: left;"> -->
+- Command
+  + TBD
+- Insert
+  + TBD
+- Visual
+  + TDB
 
 ---
+
+## Opening a terminal
+<!-- .slide: style="text-align: left;"> -->
+TBD
+
+---
+
+## Configuration
+<!-- .slide: style="text-align: left;"> -->
+TBD
+
+---
+
+## Execute Single powershell Command
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/ssNJExTNUco" title="Single powershell commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+## Execute multi-line command
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/8pGGpJMJs4w" title="Multi-line commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
