@@ -74,6 +74,12 @@ TBD
 
 ---
 
+## Multi-line editing
+<!-- .slide: style="text-align: left;"> -->
+TBD
+
+---
+
 ## Opening a terminal
 <!-- .slide: style="text-align: left;"> -->
 TBD
@@ -95,6 +101,12 @@ TBD
 ## Execute multi-line command
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/8pGGpJMJs4w" title="Multi-line commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## NERDTree
+<!-- .slide: style="text-align: left;"> -->
+TBD
 
 ---
 
