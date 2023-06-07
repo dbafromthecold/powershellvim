@@ -63,6 +63,12 @@ TBD
 
 ---
 
+## Running a script
+<!-- .slide: style="text-align: left;"> -->
+TBD
+
+---
+
 ## Modes
 <!-- .slide: style="text-align: left;"> -->
 - Command
@@ -106,7 +112,7 @@ TBD
 
 ## NERDTree
 <!-- .slide: style="text-align: left;"> -->
-TBD
+
 
 ---
 
