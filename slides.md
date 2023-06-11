@@ -19,11 +19,11 @@
 
 ## Session Aim
 <!-- .slide: style="text-align: left;"> -->
-To show what can be done with powershell and vim
+To show what can be done with powershell and Vim
 
 ---
 
-## My VIM Setup
+## My Vim Setup
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
   <img src="images/vim_setup.png" />
@@ -40,8 +40,14 @@ To show what can be done with powershell and vim
 ---
 
 ## History
-
-TBD
+<!-- .slide: style="text-align: left;"> -->
+- Based on its precedessor vi (visual editor)
+- Built by Bill Joy in the 1970s
+- In 1988, Bram Moolenaar, worked on Vi IMitiation
+- Vi IMitation evolved into Vi IMproved
+- Released as shareware in 1991
+- Continued to evolve in the 1990s and 2000s
+- Is now an open-source project
 
 ---
 
@@ -51,68 +57,80 @@ TBD
 
 ---
 
-## Exiting VIM
+## Exiting Vim
 <!-- .slide: style="text-align: left;"> -->
-TBD
+<p align="center">
+<img src="images/HowToExitVim.gif"/>
+</p>
 
 ---
 
-## Opening VIM
+## Opening Vim
 <!-- .slide: style="text-align: left;"> -->
-TBD
+<p align="center">
+<img src="images/vim_start_screen.png"/>
+</p>
 
 ---
 
 ## Running a script
 <!-- .slide: style="text-align: left;"> -->
-TBD
+- Open up Vim <!-- .element: class="fragment" data-fragment-index="1" -->
+- Write the script<!-- .element: class="fragment" data-fragment-index="2" -->
+- Exit and save<!-- .element: class="fragment" data-fragment-index="3" -->
+- Navigate to script in powershell<!-- .element: class="fragment" data-fragment-index="4" -->
+- Run the script<!-- .element: class="fragment" data-fragment-index="5" -->
+- There has to be a better way!<!-- .element: class="fragment" data-fragment-index="6" -->
 
 ---
 
 ## Modes
 <!-- .slide: style="text-align: left;"> -->
 - Command
-  + TBD
+  + Navigation, file operations, cut/copy/paste
 - Insert
-  + TBD
+  + Writing text to a file
 - Visual
-  + TDB
+  + Selecting text in a file
 
 ---
 
-## Multi-line editing
+## More operations and configuration
 <!-- .slide: style="text-align: left;"> -->
-TBD
+- Visual Block Mode!
+  + Multi-line operations
+- Opening a terminal
+  + Accessing powershell within Vim
+- Opening a file explorer
+  + Using NERDTree to access files
+- The vimrc file
+  + Configuring Vim
 
 ---
 
-## Opening a terminal
-<!-- .slide: style="text-align: left;"> -->
-TBD
-
----
-
-## Configuration
-<!-- .slide: style="text-align: left;"> -->
-TBD
+# Demo
 
 ---
 
 ## Execute Single powershell Command
-
+<!-- .slide: style="text-align: left;"> -->
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/ssNJExTNUco" title="Single powershell commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
 ## Execute multi-line command
-
+<!-- .slide: style="text-align: left;"> -->
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/8pGGpJMJs4w" title="Multi-line commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
 ## NERDTree
 <!-- .slide: style="text-align: left;"> -->
-
+- A file tree explorer for Vim
+  + Installed as a plugin
+  + Or just pull the code down from Github
+  + Other repos will add file icone
+  + This WILL slow Vim down!
 
 ---
 
@@ -121,5 +139,6 @@ TBD
 ---
 
 ## Resources
+<!-- .slide: style="text-align: left;"> -->
 
 
