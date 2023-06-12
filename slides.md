@@ -103,7 +103,9 @@ To show what can be done with powershell and Vim
 
 ## Execute Single powershell Command
 <!-- .slide: style="text-align: left;"> -->
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/ssNJExTNUco" title="Single powershell commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+<img src="images/SimpleCommandPowershellVim.gif"/>
+</p>
 
 ---
 
