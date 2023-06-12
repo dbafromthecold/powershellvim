@@ -141,16 +141,15 @@ To show what can be done with powershell and Vim
 
 ---
 
-## More operations and configuration
+## Down the rabbit hole
 <!-- .slide: style="text-align: left;"> -->
-- Visual Block Mode!
-  + Multi-line operations
-- Opening a terminal
-  + Executing powershell commands
-- Opening a file explorer
-  + Using NERDTree to access files
-- The vimrc file
-  + Configuring Vim
+- Configuring Vim with vimrc
+  + C:\users\USERNAME\vimfiles
+- Ability to completely configure everything!
+- Set colour scheme
+- Set default terminal
+- Create shortcuts
+- Create abbreviations
 
 ---
 
