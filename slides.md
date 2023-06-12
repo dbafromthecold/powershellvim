@@ -73,17 +73,6 @@ To show what can be done with powershell and Vim
 
 ---
 
-## Running a script
-<!-- .slide: style="text-align: left;"> -->
-- Open up Vim <!-- .element: class="fragment" data-fragment-index="1" -->
-- Write the script<!-- .element: class="fragment" data-fragment-index="2" -->
-- Exit and save<!-- .element: class="fragment" data-fragment-index="3" -->
-- Navigate to script in powershell<!-- .element: class="fragment" data-fragment-index="4" -->
-- Run the script<!-- .element: class="fragment" data-fragment-index="5" -->
-- There has to be a better way!<!-- .element: class="fragment" data-fragment-index="6" -->
-
----
-
 ## Modes
 <!-- .slide: style="text-align: left;"> -->
 - Command
@@ -92,19 +81,17 @@ To show what can be done with powershell and Vim
   + Writing text to a file
 - Visual
   + Selecting text in a file
-
+  
 ---
 
-## More operations and configuration
+## Running a script
 <!-- .slide: style="text-align: left;"> -->
-- Visual Block Mode!
-  + Multi-line operations
-- Opening a terminal
-  + Accessing powershell within Vim
-- Opening a file explorer
-  + Using NERDTree to access files
-- The vimrc file
-  + Configuring Vim
+- Open up Vim <!-- .element: class="fragment" data-fragment-index="1" -->
+- Write the script<!-- .element: class="fragment" data-fragment-index="2" -->
+- Exit and save<!-- .element: class="fragment" data-fragment-index="3" -->
+- Navigate to script in powershell<!-- .element: class="fragment" data-fragment-index="4" -->
+- Run the script<!-- .element: class="fragment" data-fragment-index="5" -->
+- There has to be a better way!<!-- .element: class="fragment" data-fragment-index="6" -->
 
 ---
 
@@ -124,6 +111,23 @@ To show what can be done with powershell and Vim
 
 ---
 
+# Demo
+
+---
+
+## More operations and configuration
+<!-- .slide: style="text-align: left;"> -->
+- Visual Block Mode!
+  + Multi-line operations
+- Opening a terminal
+  + Accessing powershell within Vim
+- Opening a file explorer
+  + Using NERDTree to access files
+- The vimrc file
+  + Configuring Vim
+
+---
+
 ## NERDTree
 <!-- .slide: style="text-align: left;"> -->
 - A file tree explorer for Vim
@@ -134,7 +138,7 @@ To show what can be done with powershell and Vim
 
 ---
 
-# Demos
+# Demo
 
 ---
 
