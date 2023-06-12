@@ -39,6 +39,14 @@ To show what can be done with powershell and Vim
 
 ---
 
+## Stop to think
+<!-- .slide: style="text-align: left;"> -->
+<p align="center">
+  <img src="images/stop_to_think.png" />
+</p>
+
+---
+
 ## History
 <!-- .slide: style="text-align: left;"> -->
 - Based on its precedessor vi (visual editor)
