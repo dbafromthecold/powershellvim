@@ -51,6 +51,8 @@ To show what can be done with powershell and Vim
 
 ---
 
+## Original Keyboard
+<!-- .slide: style="text-align: left;"> -->
 <p align="center">
   <img src="images/vim_keyboard_2.png" />
 </p>
