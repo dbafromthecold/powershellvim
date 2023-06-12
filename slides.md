@@ -159,7 +159,7 @@ To show what can be done with powershell and Vim
 - A file tree explorer for Vim
   + Installed as a plugin
   + Or just pull the code down from Github
-  + Other repos will add file icone
+  + Other repos will add file icons
   + This WILL slow Vim down!
 
 ---
@@ -170,5 +170,10 @@ To show what can be done with powershell and Vim
 
 ## Resources
 <!-- .slide: style="text-align: left;"> -->
+<font size="6">
+<a href="https://github.com/dbafromthecold/powershellvim">https://github.com/dbafromthecold/powershellvim</a><br>
+</font>
 
-
+<p align="center">
+<img src="images/powershellvim_qr_code.png" />
+</p>
