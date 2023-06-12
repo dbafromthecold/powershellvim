@@ -81,7 +81,7 @@ To show what can be done with powershell and Vim
   + Writing text to a file
 - Visual
   + Selecting text in a file
-  
+
 ---
 
 ## Running a script
