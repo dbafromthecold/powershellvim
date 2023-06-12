@@ -122,6 +122,7 @@ To show what can be done with powershell and Vim
 <p align="center">
 <img src="images/MultiLineCommandPowershellVim.gif"/>
 </p>
+
 ---
 
 # Demo
