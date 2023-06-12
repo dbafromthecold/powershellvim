@@ -143,8 +143,15 @@ To show what can be done with powershell and Vim
 
 ## Down the rabbit hole
 <!-- .slide: style="text-align: left;"> -->
-- Configuring Vim with vimrc
-  + C:\users\USERNAME\vimfiles
+<p align="center">
+<img src="images/down_the_rabbit_hole.png"/>
+</p>
+
+---
+
+## Configuring Vim with vimrc
+<!-- .slide: style="text-align: left;"> -->
+- C:\users\USERNAME\vimfiles
 - Ability to completely configure everything!
 - Set colour scheme
 - Set default terminal
