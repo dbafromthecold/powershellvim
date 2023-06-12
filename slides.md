@@ -59,14 +59,6 @@ To show what can be done with powershell and Vim
 
 ---
 
-## Original Keyboard
-<!-- .slide: style="text-align: left;"> -->
-<p align="center">
-  <img src="images/vim_keyboard_2.png" />
-</p>
-
----
-
 ## Exiting Vim
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
@@ -83,10 +75,18 @@ To show what can be done with powershell and Vim
 
 ---
 
+## Original Keyboard
+<!-- .slide: style="text-align: left;"> -->
+<p align="center">
+  <img src="images/vim_keyboard_2.png" />
+</p>
+
+---
+
 ## Modes
 <!-- .slide: style="text-align: left;"> -->
 - Command
-  + Navigation, file operations, cut/copy/paste
+  + Navigation, file operations, searching
 - Insert
   + Writing text to a file
 - Visual
@@ -98,7 +98,7 @@ To show what can be done with powershell and Vim
 <!-- .slide: style="text-align: left;"> -->
 - Open up Vim <!-- .element: class="fragment" data-fragment-index="1" -->
 - Write the script<!-- .element: class="fragment" data-fragment-index="2" -->
-- Exit and save<!-- .element: class="fragment" data-fragment-index="3" -->
+- Save (write) and exit (quit)<!-- .element: class="fragment" data-fragment-index="3" -->
 - Navigate to script in powershell<!-- .element: class="fragment" data-fragment-index="4" -->
 - Run the script<!-- .element: class="fragment" data-fragment-index="5" -->
 - There has to be a better way!<!-- .element: class="fragment" data-fragment-index="6" -->
