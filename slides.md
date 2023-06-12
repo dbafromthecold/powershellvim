@@ -111,8 +111,9 @@ To show what can be done with powershell and Vim
 
 ## Execute multi-line command
 <!-- .slide: style="text-align: left;"> -->
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/8pGGpJMJs4w" title="Multi-line commands in Vim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<p align="center">
+<img src="images/MultiLineCommandPowershellVim.gif"/>
+</p>
 ---
 
 # Demo
