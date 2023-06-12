@@ -1,22 +1,18 @@
 "vim generic settings
 set number
-set nocompatible
-set backspace=indent,eol,start
 set nowrap
 set filetype=ps1
 set ruler
-set tabstop=4
-set shiftwidth=4
-set smartindent
-set expandtab
-set showtabline=0
+set smartindent "automatically set indents when writing code
+set tabstop=4  "set number of spaces a tab is
+set shiftwidth=4 "set number of spaces an indent is
+set expandtab "tabs become spaces
 
 
 "set directories
-set nobackup "no backup file
-set noswapfile "no swap file
-set noundofile "no undo file
-
+set nobackup "no backup file - used to recover file
+set noswapfile "no swap file - used to avoid multiple edits to file and recover from crashes, merged when saving
+set noundofile "no undo file - ability to roll back changes
 
 
 "remove text from NERDTree UI
@@ -37,7 +33,6 @@ syntax on
 
 "highlight line cursor is on
 set cursorline
-
 
 
 "set default shell
