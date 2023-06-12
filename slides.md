@@ -120,12 +120,24 @@ To show what can be done with powershell and Vim
 
 ---
 
+## Opening a terminal in Vim
+<!-- .slide: style="text-align: left;"> -->
+<p align="center">
+<img src="images/vim_terminal.png"/>
+</p>
+
+---
+
+# Demo
+
+---
+
 ## More operations and configuration
 <!-- .slide: style="text-align: left;"> -->
 - Visual Block Mode!
   + Multi-line operations
 - Opening a terminal
-  + Accessing powershell within Vim
+  + Executing powershell commands
 - Opening a file explorer
   + Using NERDTree to access files
 - The vimrc file
