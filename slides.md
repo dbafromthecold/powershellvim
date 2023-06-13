@@ -144,7 +144,7 @@ To show what can be done with powershell and Vim
 ## Down the rabbit hole
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
-<img src="images/down_the_rabbit_hole.png"/>
+<img src="images/down_the_rabbit_hole.gif"/>
 </p>
 
 ---
