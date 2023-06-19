@@ -109,7 +109,7 @@ To show what can be done with powershell and Vim
 
 ---
 
-## Execute Single powershell Command
+## Execute Single Command
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
 <img src="images/SimpleCommandPowershellVim.gif"/>
