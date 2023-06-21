@@ -19,7 +19,7 @@
 
 ## Session Aim
 <!-- .slide: style="text-align: left;"> -->
-To show what can be done with powershell and Vim
+To take you through my process of using powershell in vim
 
 ---
 
