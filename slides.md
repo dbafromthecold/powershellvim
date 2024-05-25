@@ -25,13 +25,6 @@ To take you through my process of using powershell in vim
 
 ---
 
-<p align="center">
-  <img src="images/recommended_editor.jpg" />
-</p>
-
-
----
-
 ## The Big Question
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
