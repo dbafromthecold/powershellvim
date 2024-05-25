@@ -23,11 +23,7 @@ To take you through my process of using powershell in vim
 
 ---
 
-## My Vim Setup
-<!-- .slide: style="text-align: left;"> -->
-<p align="center">
-  <img src="images/vim_setup.png" />
-</p>
+
 
 ---
 
@@ -105,10 +101,6 @@ To take you through my process of using powershell in vim
 
 ---
 
-# Demo
-
----
-
 ## Execute Single Command
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
@@ -125,19 +117,11 @@ To take you through my process of using powershell in vim
 
 ---
 
-# Demo
-
----
-
 ## Opening a terminal in Vim
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
 <img src="images/vim_terminal.png"/>
 </p>
-
----
-
-# Demo
 
 ---
 
@@ -170,7 +154,11 @@ To take you through my process of using powershell in vim
 
 ---
 
-# Demo
+## My Vim Setup
+<!-- .slide: style="text-align: left;"> -->
+<p align="center">
+  <img src="images/vim_setup.png" />
+</p>
 
 ---
 
