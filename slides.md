@@ -41,33 +41,6 @@ To take you through my process of using powershell in vim
 
 ---
 
-## Exiting Vim
-<!-- .slide: style="text-align: left;"> -->
-<p align="center">
-<img src="images/HowToExitVim.gif"/>
-</p>
-
----
-
-## Opening Vim
-<!-- .slide: style="text-align: left;"> -->
-<p align="center">
-<img src="images/vim_start_screen.png"/>
-</p>
-
----
-
-## Modes
-<!-- .slide: style="text-align: left;"> -->
-- Command
-  + Navigation, file operations, searching
-- Insert
-  + Writing text to a file
-- Visual
-  + Selecting text in a file
-
----
-
 ## Running a script
 <!-- .slide: style="text-align: left;"> -->
 - Open up Vim <!-- .element: class="fragment" data-fragment-index="1" -->
