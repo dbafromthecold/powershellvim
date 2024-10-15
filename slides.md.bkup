@@ -41,6 +41,18 @@ To take you through my process of using powershell in vim
 
 ---
 
+## History
+<!-- .slide: style="text-align: left;"> -->
+- Based on its precedessor vi (visual editor)
+- Built by Bill Joy in the 1970s
+- In 1988, Bram Moolenaar, worked on Vi IMitiation
+- Vi IMitation evolved into Vi IMproved
+- Released as shareware in 1991
+- Continued to evolve in the 1990s and 2000s
+- Is now an open-source project
+
+---
+
 ## Exiting Vim
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
@@ -53,6 +65,14 @@ To take you through my process of using powershell in vim
 <!-- .slide: style="text-align: left;"> -->
 <p align="center">
 <img src="images/vim_start_screen.png"/>
+</p>
+
+---
+
+## Original Keyboard
+<!-- .slide: style="text-align: left;"> -->
+<p align="center">
+  <img src="images/vim_keyboard_2.png" />
 </p>
 
 ---
